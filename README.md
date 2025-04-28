@@ -35,15 +35,15 @@ To run the project locally:
 
 Clone the repository
 
-``
+```
 git clone https://github.com/yashchandak1/projectost
-``
+```
 
 Navigate to the project directory
 
-``
+```
 cd projectost
-``
+```
 
 ```
 start index.html   # Windows
